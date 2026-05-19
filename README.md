@@ -79,21 +79,19 @@ Full Stack Developer | Java Backend Enthusiast | Problem Solver
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-| 💻 Stats | 📈 Details |
-|----------|------------|
-| ⭐ Total Focus | Full Stack Development |
-| 🔥 Current Focus | Backend + System Design |
-| 📚 DSA Solved | 396+ LeetCode Problems |
-| 🚀 Main Tech | Java • Spring Boot • React |
-| 🛠 Databases | MySQL • MongoDB |
-| 📦 Tools | Git • Docker • Postman |
-| 🎯 Goal | Software Engineering Internship |
-| 📄 Achievement | IEEE Research Paper Published |
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Utkarshgupta2027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-</div>
+<img width="47%" src="https://github-readme-streak-stats.demolab.com?user=Utkarshgupta2027&theme=tokyonight&hide_border=true&background=0D1117" />
 
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshgupta2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+</p>
 ---
 
 <div align="center">
