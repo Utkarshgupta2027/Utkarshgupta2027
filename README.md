@@ -14,19 +14,19 @@ Full Stack Developer | Java Backend Enthusiast | Problem Solver
 
 👨‍💻 3rd Year B.Tech IT Student at Dronacharya Group of Institutions, Greater Noida
 
-🚀 Passionate about:
+🚀 Passionate About
 - Full Stack Development
 - Backend Engineering
 - Problem Solving & DSA
 - System Design
 
-🌱 Currently Learning:
+🌱 Currently Learning
 - Microservices
 - Docker
 - Advanced Spring Boot
 - System Design
 
-💡 Looking for:
+💡 Looking For
 - Software Engineering Internships
 - Backend Development Opportunities
 
@@ -36,15 +36,15 @@ Full Stack Developer | Java Backend Enthusiast | Problem Solver
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/utkarsh-gupta-5463b5299/" target="blank">
+<a href="https://www.linkedin.com/in/utkarsh-gupta-5463b5299/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://github.com/Utkarshgupta2027" target="blank">
+<a href="https://github.com/Utkarshgupta2027" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
-<a href="https://utkarshgupta2027.github.io/Portfolio.git.io/" target="blank">
+<a href="https://utkarshgupta2027.github.io/Portfolio.git.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=devto" height="50" />
 </a>
 
@@ -73,31 +73,40 @@ Full Stack Developer | Java Backend Enthusiast | Problem Solver
 | 💳 PayFlow | Full Stack Payment Application |
 | 🛒 Shrinath Cycle Store | E-Commerce Platform |
 | 🌐 Portfolio Website | Personal Developer Portfolio |
-| 📥 YouTube Video Downloader | Video Downloading App |
+| 📥 YouTube Video Downloader | Video Downloading Application |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Developer Snapshot
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utkarshgupta2027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+```yaml
+Name: Utkarsh Gupta
+Role: Full Stack Developer
+Education: B.Tech IT (3rd Year)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshgupta2027&theme=tokyonight&hide_border=true&background=0D1117" />
+Focus Areas:
+  - Backend Development
+  - System Design
+  - Full Stack Development
+  - Problem Solving
 
-</p>
+Tech Stack:
+  - Java
+  - Spring Boot
+  - React
+  - MySQL
+  - MongoDB
+  - Docker
 
-<p align="center">
+Achievements:
+  - 396+ LeetCode Problems Solved
+  - IEEE Research Paper Published
+  - Full Stack Development Certified
+```
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshgupta2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Utkarshgupta2027&theme=tokyonight" />
-
-</p>
+</div>
 
 ---
 
