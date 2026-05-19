@@ -77,42 +77,32 @@ Full Stack Developer | Java Backend Enthusiast | Problem Solver
 
 ---
 
-# 📊 Developer Snapshot
+# 📊 GitHub Stats
 
 <div align="center">
 
-```yaml
-👨‍💻 Name: Utkarsh Gupta
-🎓 Education: B.Tech IT (3rd Year)
-
-💻 Role:
-  - Full Stack Developer
-  - Java Backend Enthusiast
-  - Problem Solver
-
-🚀 Skills:
-  - Java
-  - Spring Boot
-  - React
-  - MySQL
-  - MongoDB
-  - Docker
-
-📚 DSA:
-  - 396+ LeetCode Problems Solved
-
-🏆 Achievements:
-  - IEEE Research Paper Published
-  - Full Stack Web Development Certified
-
-🎯 Current Focus:
-  - Backend Development
-  - System Design
-  - Microservices
-```
+| 💻 Stats | 📈 Details |
+|----------|------------|
+| ⭐ Total Focus | Full Stack Development |
+| 🔥 Current Focus | Backend + System Design |
+| 📚 DSA Solved | 396+ LeetCode Problems |
+| 🚀 Main Tech | Java • Spring Boot • React |
+| 🛠 Databases | MySQL • MongoDB |
+| 📦 Tools | Git • Docker • Postman |
+| 🎯 Goal | Software Engineering Internship |
+| 📄 Achievement | IEEE Research Paper Published |
 
 </div>
 
+---
+
+<div align="center">
+
+## 💡 Most Used Technologies
+
+Java • Spring Boot • React • JavaScript • MySQL • MongoDB • Docker
+
+</div>
 ---
 
 # 📈 Contribution Graph
