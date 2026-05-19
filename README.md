@@ -82,17 +82,15 @@ Full Stack Developer | Java Backend Enthusiast | Problem Solver
 <div align="center">
 
 ```yaml
-Name: Utkarsh Gupta
-Role: Full Stack Developer
-Education: B.Tech IT (3rd Year)
+👨‍💻 Name: Utkarsh Gupta
+🎓 Education: B.Tech IT (3rd Year)
 
-Focus Areas:
-  - Backend Development
-  - System Design
-  - Full Stack Development
-  - Problem Solving
+💻 Role:
+  - Full Stack Developer
+  - Java Backend Enthusiast
+  - Problem Solver
 
-Tech Stack:
+🚀 Skills:
   - Java
   - Spring Boot
   - React
@@ -100,10 +98,17 @@ Tech Stack:
   - MongoDB
   - Docker
 
-Achievements:
+📚 DSA:
   - 396+ LeetCode Problems Solved
+
+🏆 Achievements:
   - IEEE Research Paper Published
-  - Full Stack Development Certified
+  - Full Stack Web Development Certified
+
+🎯 Current Focus:
+  - Backend Development
+  - System Design
+  - Microservices
 ```
 
 </div>
