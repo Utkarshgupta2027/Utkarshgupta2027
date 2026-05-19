@@ -1,146 +1,106 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Gupta</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Utkarsh+Gupta;Full+Stack+Developer;Java+Backend+Enthusiast;Problem+Solver" />
+</h1>
 
-<h3 align="center">
-Full Stack Developer | Java Backend Enthusiast | Problem Solver
-</h3>
+<h3 align="center">Full Stack Developer &nbsp;|&nbsp; Java Backend Enthusiast &nbsp;|&nbsp; Problem Solver</h3>
+
+<br/>
+
+---
+
+## 💫 About Me
+
+- 👨‍💻 **3rd Year B.Tech IT Student** at Dronacharya Group of Institutions, Greater Noida
+- 🚀 Passionate about **Full Stack Development**, **Backend Engineering**, **Problem Solving & DSA**, and **System Design**
+- 🌱 Currently learning **Microservices**, **Docker**, **Advanced Spring Boot**, and **System Design**
+- 💡 Looking for **Software Engineering Internships** and **Backend Development Opportunities**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Backend+Developer;Full+Stack+Web+Developer;DSA+%7C+LeetCode+Enthusiast;Always+Learning+New+Things" />
+  <a href="https://www.linkedin.com/in/utkarsh-gupta-5463b5299/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Utkarshgupta2027" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://utkarshgupta2027.github.io/Portfolio.git.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" height="50" />
+  </a>
+  &nbsp;
+  <a href="mailto:gutkarsh702@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
-
-👨‍💻 3rd Year B.Tech IT Student at Dronacharya Group of Institutions, Greater Noida
-
-🚀 Passionate About
-- Full Stack Development
-- Backend Engineering
-- Problem Solving & DSA
-- System Design
-
-🌱 Currently Learning
-- Microservices
-- Docker
-- Advanced Spring Boot
-- System Design
-
-💡 Looking For
-- Software Engineering Internships
-- Backend Development Opportunities
-
----
-
-# 🌐 Connect With Me
+## 💻 Tech Stack
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/utkarsh-gupta-5463b5299/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="https://github.com/Utkarshgupta2027" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-<a href="https://utkarshgupta2027.github.io/Portfolio.git.io/" target="_blank">
-<img src="https://skillicons.dev/icons?i=devto" height="50" />
-</a>
-
-<a href="mailto:gutkarsh702@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,mysql,mongodb,git,github,docker,postman,vscode" />
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,mysql,mongodb,git,github,docker,postman,vscode" />
-
-</p>
-
----
-
-# 🚀 Projects
+## 🚀 Projects
 
 | Project | Description |
-|----------|-------------|
-| 💳 PayFlow | Full Stack Payment Application |
-| 🛒 Shrinath Cycle Store | E-Commerce Platform |
-| 🌐 Portfolio Website | Personal Developer Portfolio |
-| 📥 YouTube Video Downloader | Video Downloading Application |
+|---------|-------------|
+| 💳 **PayFlow** | Full Stack Payment Application |
+| 🛒 **Shrinath Cycle Store** | E-Commerce Platform |
+| 🌐 **Portfolio Website** | Personal Developer Portfolio |
+| 📥 **YouTube Video Downloader** | Video Downloading Application |
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Utkarshgupta2027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="47%" src="https://github-readme-streak-stats.demolab.com?user=Utkarshgupta2027&theme=tokyonight&hide_border=true&background=0D1117" />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utkarshgupta2027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Utkarshgupta2027&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=AAAAAA" />
 </p>
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshgupta2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</p>
----
-
-<div align="center">
-
-## 💡 Most Used Technologies
-
-Java • Spring Boot • React • JavaScript • MySQL • MongoDB • Docker
-
-</div>
----
-
-# 📈 Contribution Graph
-
-[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Utkarshgupta2027&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/Utkarsh1828?theme=dark&font=Nunito&ext=heatmap" />
-
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshgupta2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 📈 Contribution Graph
 
-🏅 Solved 396+ DSA Problems on LeetCode
-
-📄 Published IEEE Research Paper on AI-based Lung Cancer Detection
-
-🎯 Full Stack Web Development Workshop Certified
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Utkarshgupta2027&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-# ✍️ Quote
+## 🧠 LeetCode Stats
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/Utkarsh1828?theme=dark&font=Nunito&ext=heatmap" />
+</p>
 
-<i>"First, solve the problem. Then, write the code."</i> — John Johnson
+---
 
+## 🏆 Achievements
+
+- 🏅 Solved **396+ DSA Problems** on LeetCode
+- 📄 Published **IEEE Research Paper** on AI-based Lung Cancer Detection
+- 🎯 **Full Stack Web Development** Workshop Certified
+
+---
+
+## ✍️ Quote
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Utkarshgupta2027&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=Utkarshgupta2027&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views" />
 </p>
