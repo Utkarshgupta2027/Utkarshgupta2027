@@ -62,7 +62,6 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Utkarshgupta2027&theme=github_dark" />
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Utkarshgupta2027&theme=github_dark&utcOffset=5.5" />
 
@@ -76,7 +75,6 @@
 <br/>
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshgupta2027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
 </div>
 
