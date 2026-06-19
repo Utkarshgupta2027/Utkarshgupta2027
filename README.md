@@ -106,7 +106,7 @@
 
 ## 🏆 Achievements
 
-- 🏅 Solved **396+ DSA Problems** on LeetCode
+- 🏅 Solved **430+ DSA Problems** on LeetCode
 - 📄 Published **IEEE Research Paper** on AI-based Lung Cancer Detection
 - 🎯 **Full Stack Web Development** Workshop Certified
 
