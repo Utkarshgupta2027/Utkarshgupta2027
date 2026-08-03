@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-- 👨‍💻 **3rd Year B.Tech IT Student** at Dronacharya Group of Institutions, Greater Noida
+- 👨‍💻 **Final Year B.Tech IT Student** at Dronacharya Group of Institutions, Greater Noida
 - 🚀 Passionate about **Full Stack Development**, **Backend Engineering**, **Problem Solving & DSA**, and **System Design**
 - 🌱 Currently learning **Microservices**, **Docker**, **Advanced Spring Boot**, and **System Design**
 - 💡 Looking for **Software Engineering Internships** and **Backend Development Opportunities**
